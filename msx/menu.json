@@ -6,7 +6,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "Lift",
@@ -87,7 +87,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "Lampa UnCensored",
@@ -168,7 +168,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "Lampa by Skaz",
@@ -249,7 +249,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "LAMPA NoName",
@@ -330,7 +330,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "LAMPA lite NoName",
@@ -411,7 +411,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "Lampa-UspehTV",
@@ -492,7 +492,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "LAMPA land",
@@ -572,7 +572,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "ZONA msx",
@@ -653,7 +653,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "Prisma TV",
@@ -734,7 +734,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "MOVIELAB",
@@ -814,7 +814,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "ATODO",
@@ -894,7 +894,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "X-SMART TV",
@@ -974,7 +974,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "GetsTV",
@@ -1054,7 +1054,7 @@
          "data": {
             "compress": true,
             "type": "list",
-            "background": "content:https://wals09.github.io/kf/img/bac.jpg",
+            "background": "https://wals09.github.io/kf/img/bac.jpg",
             "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
             "dictionary": "https://wals09.github.io/msx/dictionary.json",
             "headline": "Forkplayer",
