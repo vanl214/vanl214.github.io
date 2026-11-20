@@ -1,9 +1,12 @@
 {
+   "name": "Мой MSX",
+   "version": "1.0",
+   "parameter": "menu:https://blv11.github.io/msx/start.json",
+   "dictionary": "https://wals09.github.io/msx/dictionary.json",
    "compress": true,
    "type": "list",
    "background": "content:https://wals09.github.io/kf/img/bac.jpg",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-   "dictionary": "https://wals09.github.io/msx/dictionary.json",
    "headline": "Бесплатное кино",
    "transparent": 2,
    "preload": "next",
