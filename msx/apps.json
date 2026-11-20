@@ -1,7 +1,7 @@
 {
    "compress": true,
    "type": "list",
-   "background": "https://blv11.github.io/msx/kittens.svg",
+   "background": "https://blv11.github.io/msx/kittens.gif",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "dictionary": "https://wals09.github.io/msx/dictionary.json",
    "headline": "Бесплатное кино",
