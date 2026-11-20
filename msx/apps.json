@@ -67,8 +67,9 @@
       }
    },
    "ready": {
-      "action": "video:plugin:http://msx.benzac.de/plugins/background.html?url=https%3A%2F%2Fblv11.github.io%2Fmsx%2Fkittens.mp4",
+      "action": "execute:service:video:data:http://msx.benzac.de/services/background.php",
       "data": {
+         "url": "https://blv11.github.io/msx/kittens.mp4",
          "label": "Котята",
          "transparent": true
       }
