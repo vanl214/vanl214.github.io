@@ -1,10 +1,23 @@
 {
-   "headline": "Test",
-   "items": [
+   "headline": "Мой MSX",
+   "menu": [
       {
-         "titleHeader": "Lift",
-         "description": "Test",
-         "action": "link:http://lift3.ws"
+         "label": "Lift",
+         "data": {
+            "pages": [
+               {
+                  "items": [
+                     {
+                        "layout": "0,0,12,6",
+                        "color": "msx-glass",
+                        "headline": "Lift",
+                        "text": "Универсальный кинозал",
+                        "action": "link:https://lift3.ws"
+                     }
+                  ]
+               }
+            ]
+         }
       }
    ]
 }
