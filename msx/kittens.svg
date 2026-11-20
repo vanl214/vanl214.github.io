@@ -22,7 +22,7 @@
       <ellipse cx="0" cy="46" rx="52" ry="42" fill="#f2a65a"/>
       <ellipse cx="0" cy="58" rx="34" ry="26" fill="#ffd9a8" opacity="0.85"/>
       <path d="M40 56 C86 52 92 10 66 4 C86 24 72 48 40 44 Z" fill="#f2a65a">
-        <animateTransform attributeName="transform" type="rotate" values="-8 40 54;10 40 54;-8 40 54" dur="2.6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" values="-8 40 54;10 40 54;-8 40 54" dur="3s" repeatCount="indefinite"/>
       </path>
       <circle cx="-30" cy="-8" r="13" fill="#f2a65a"/>
       <circle cx="30" cy="-8" r="13" fill="#f2a65a"/>
@@ -44,7 +44,7 @@
       <ellipse cx="0" cy="46" rx="52" ry="42" fill="#b9c6db"/>
       <ellipse cx="0" cy="58" rx="34" ry="26" fill="#eef4ff" opacity="0.85"/>
       <path d="M40 56 C86 52 92 10 66 4 C86 24 72 48 40 44 Z" fill="#b9c6db">
-        <animateTransform attributeName="transform" type="rotate" values="6 40 54;-12 40 54;6 40 54" dur="3.1s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" values="6 40 54;-12 40 54;6 40 54" dur="3s" repeatCount="indefinite"/>
       </path>
       <circle cx="-30" cy="-8" r="13" fill="#b9c6db"/>
       <circle cx="30" cy="-8" r="13" fill="#b9c6db"/>
@@ -66,7 +66,7 @@
       <ellipse cx="0" cy="46" rx="52" ry="42" fill="#f7f4ec"/>
       <ellipse cx="0" cy="58" rx="34" ry="26" fill="#ffffff" opacity="0.9"/>
       <path d="M40 56 C86 52 92 10 66 4 C86 24 72 48 40 44 Z" fill="#f7f4ec">
-        <animateTransform attributeName="transform" type="rotate" values="-5 40 54;12 40 54;-5 40 54" dur="2.9s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" values="-5 40 54;12 40 54;-5 40 54" dur="3s" repeatCount="indefinite"/>
       </path>
       <circle cx="-30" cy="-8" r="13" fill="#f7f4ec"/>
       <circle cx="30" cy="-8" r="13" fill="#f7f4ec"/>
@@ -89,18 +89,18 @@
   <rect width="1280" height="720" fill="url(#sky)"/>
 
   <g opacity="0.9">
-    <use xlink:href="#star" x="90" y="80"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.1s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="210" y="160"><animate attributeName="opacity" values="1;0.2;1" dur="4.4s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="340" y="70"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="470" y="190"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="3.8s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="610" y="95"><animate attributeName="opacity" values="0.2;1;0.2" dur="5.2s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="760" y="170"><animate attributeName="opacity" values="1;0.3;1" dur="3.3s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="900" y="80"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.1s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="1040" y="180"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.9s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="1180" y="110"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.7s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="150" y="300"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.6s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="1140" y="330"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.2s" repeatCount="indefinite"/></use>
-    <use xlink:href="#star" x="660" y="280"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.5s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="90" y="80"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="210" y="160"><animate attributeName="opacity" values="1;0.2;1" dur="6s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="340" y="70"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="470" y="190"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="6s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="610" y="95"><animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="760" y="170"><animate attributeName="opacity" values="1;0.3;1" dur="6s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="900" y="80"><animate attributeName="opacity" values="0.3;1;0.3" dur="6s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="1040" y="180"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="1180" y="110"><animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="150" y="300"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="6s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="1140" y="330"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="6s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="660" y="280"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="6s" repeatCount="indefinite"/></use>
   </g>
 
   <circle cx="1010" cy="185" r="190" fill="url(#moonGlow)"/>
@@ -113,28 +113,28 @@
 
   <g transform="translate(275,470)">
     <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="4.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="6s" repeatCount="indefinite"/>
       <use xlink:href="#kittenOrange"/>
     </g>
   </g>
 
   <g transform="translate(640,530)">
     <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 10;0 0" dur="3.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 10;0 0" dur="6s" repeatCount="indefinite"/>
       <use xlink:href="#kittenGrey" transform="scale(1.12)"/>
     </g>
   </g>
 
   <g transform="translate(1010,480)">
     <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="4.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="6s" repeatCount="indefinite"/>
       <use xlink:href="#kittenWhite" transform="scale(0.94)"/>
     </g>
   </g>
 
   <g fill="#ffe9a8" opacity="0.65">
     <circle cx="430" cy="240" r="3"><animate attributeName="cy" values="240;215;240" dur="6s" repeatCount="indefinite"/></circle>
-    <circle cx="855" cy="330" r="2.5"><animate attributeName="cy" values="330;300;330" dur="7s" repeatCount="indefinite"/></circle>
-    <circle cx="180" cy="420" r="2"><animate attributeName="cy" values="420;395;420" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="855" cy="330" r="2.5"><animate attributeName="cy" values="330;300;330" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="420" r="2"><animate attributeName="cy" values="420;395;420" dur="6s" repeatCount="indefinite"/></circle>
   </g>
 </svg>

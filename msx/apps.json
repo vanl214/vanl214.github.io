@@ -1,7 +1,7 @@
 {
    "compress": true,
    "type": "list",
-   "background": "https://blv11.github.io/msx/kittens.gif",
+   "background": "https://wals09.github.io/kf/img/bac.jpg",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "dictionary": "https://wals09.github.io/msx/dictionary.json",
    "headline": "Бесплатное кино",
@@ -69,7 +69,7 @@
    "ready": {
       "action": "execute:service:video:data:http://msx.benzac.de/services/background.php",
       "data": {
-         "url": "https://blv11.github.io/msx/kittens.mp4",
+         "url": "https://blv11.github.io/msx/kittens.mp4?v=2",
          "label": "Котята",
          "transparent": true
       }
@@ -81,13 +81,6 @@
          "backdrop": "https://wals09.github.io/kf/img/bac.jpg",
          "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'><rect width='128' height='128' rx='26' fill='%230b4a55'/><path d='M50 39l42 25-42 25z' fill='%23ffffff'/><rect x='26' y='97' width='76' height='9' rx='4.5' fill='%2350e3d0'/></svg>",
          "action": "content:request:interaction:init@https://t.lftv.ws/msx/entry.html?v=msxauto20261116"
-      },
-      {
-         "titleHeader": "",
-         "description": "{col:white}Lift{col}{br}Универсальный кинозал. Стартовый параметр: lift3.ws",
-         "backdrop": "https://wals09.github.io/kf/img/bac.jpg",
-         "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128' fill='%230b2244'><path d='M46.4 85.21h-9.55a4.13 4.13 0 0 1-4.13-4.13V63.64c0-1.31-1.06-2.37-2.37-2.37h-5.98c-1.31 0-2.37 1.06-2.37 2.37v21.94c0 3.03 2.37 5.5 5.36 5.66v.02h19.05c.62 0 1.12-.5 1.12-1.12v-3.81c0-.62-.5-1.12-1.12-1.12Zm-6.48-17.62 9.68-4.49c1.56-.72 1.56-2.93 0-3.66l-9.68-4.49c-1.34-.62-2.87.36-2.87 1.83v8.99c0 1.47 1.53 2.45 2.87 1.83Zm17.99 2.44h-2.25v-.37c0-1.04.84-1.88 1.88-1.88h2.47c.39 0 .71-.32.71-.71v-3.51c0-.39-.32-.71-.71-.71h-4.6a6.55 6.55 0 0 0-6.55 6.55v.63h-1.79c-.51 0-.93.42-.93.93v2.83c0 .51.42.93.93.93h1.79v15.56c0 .54.44.98.98.98h4.83c.54 0 .98-.44.98-.98V74.7h2.25c.51 0 .93-.42.93-.93v-2.83c0-.51-.42-.93-.93-.93Zm11.21 4.68h4.97c.51 0 .93-.42.93-.93v-2.83c0-.51-.42-.93-.93-.93h-4.97v-3.73c0-.54-.44-.98-.98-.98h-4.69c-.54 0-.98.44-.98.98v3.73h-1.61c-.51 0-.93.42-.93.93v2.83c0 .51.42.93.93.93h1.61v9.69a6.66 6.66 0 0 0 6.66 6.66h1.64c.97 0 1.56.05 1.92 0h1.43c.49 0 .9-.4.9-.9v-4.71c0-.49-.4-.9-.9-.9h-3.1c-1.05 0-1.9-.85-1.9-1.9Zm-31.2 9.42h6.87V70.77c0-.41-.33-.74-.74-.74h-6.83c-.41 0-.74.33-.74.74v13.34c.12.01.24.02.36.02h1.08Z'/></svg>",
-         "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
       },
       {
          "titleHeader": "",
