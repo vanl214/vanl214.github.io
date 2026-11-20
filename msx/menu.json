@@ -12,7 +12,7 @@
                         "color": "msx-glass",
                         "headline": "Lift",
                         "text": "Универсальный кинозал",
-                        "action": "link:https://lift3.ws"
+                        "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
                      }
                   ]
                }
