@@ -66,6 +66,13 @@
          "image:extension": "| {context:titleHeader}"
       }
    },
+   "ready": {
+      "action": "video:plugin:http://msx.benzac.de/plugins/background.html?url=https%3A%2F%2Fblv11.github.io%2Fmsx%2Fkittens.mp4",
+      "data": {
+         "label": "Котята",
+         "transparent": true
+      }
+   },
    "items": [
       {
          "titleHeader": "",
