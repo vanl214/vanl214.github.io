@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050916"/>
+      <stop offset="0.55" stop-color="#0b1633"/>
+      <stop offset="1" stop-color="#152550"/>
+    </linearGradient>
+    <radialGradient id="moonGlow">
+      <stop offset="0" stop-color="#fff4c9" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#fff4c9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="kittenGlow">
+      <stop offset="0" stop-color="#9fd8ff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#9fd8ff" stop-opacity="0"/>
+    </radialGradient>
+    <g id="star">
+      <circle r="2.4" fill="#fff3c4"/>
+      <circle r="5.5" fill="#fff3c4" opacity="0.18"/>
+    </g>
+    <g id="kittenOrange">
+      <ellipse cx="0" cy="46" rx="52" ry="42" fill="#f2a65a"/>
+      <ellipse cx="0" cy="58" rx="34" ry="26" fill="#ffd9a8" opacity="0.85"/>
+      <path d="M40 56 C86 52 92 10 66 4 C86 24 72 48 40 44 Z" fill="#f2a65a">
+        <animateTransform attributeName="transform" type="rotate" values="-8 40 54;10 40 54;-8 40 54" dur="2.6s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="-30" cy="-8" r="13" fill="#f2a65a"/>
+      <circle cx="30" cy="-8" r="13" fill="#f2a65a"/>
+      <circle cx="-30" cy="-8" r="7" fill="#e8899d"/>
+      <circle cx="30" cy="-8" r="7" fill="#e8899d"/>
+      <circle cx="0" cy="6" r="40" fill="#f2a65a"/>
+      <ellipse cx="0" cy="22" rx="22" ry="15" fill="#ffd9a8"/>
+      <ellipse cx="-15" cy="2" rx="5" ry="7" fill="#25314d"/>
+      <ellipse cx="15" cy="2" rx="5" ry="7" fill="#25314d"/>
+      <circle cx="-16" cy="0" r="1.8" fill="#ffffff"/>
+      <circle cx="14" cy="0" r="1.8" fill="#ffffff"/>
+      <path d="M-5 16 L5 16 L0 22 Z" fill="#e88fa0"/>
+      <path d="M0 22 Q-8 30 -15 22 M0 22 Q8 30 15 22" fill="none" stroke="#25314d" stroke-width="2" stroke-linecap="round"/>
+      <path d="M-22 20 L-42 16 M-22 24 L-43 25 M22 20 L42 16 M22 24 L43 25" stroke="#e8f1ff" stroke-width="1.6" stroke-linecap="round" opacity="0.8"/>
+      <ellipse cx="-22" cy="42" rx="12" ry="8" fill="#f2a65a"/>
+      <ellipse cx="22" cy="42" rx="12" ry="8" fill="#f2a65a"/>
+    </g>
+    <g id="kittenGrey">
+      <ellipse cx="0" cy="46" rx="52" ry="42" fill="#b9c6db"/>
+      <ellipse cx="0" cy="58" rx="34" ry="26" fill="#eef4ff" opacity="0.85"/>
+      <path d="M40 56 C86 52 92 10 66 4 C86 24 72 48 40 44 Z" fill="#b9c6db">
+        <animateTransform attributeName="transform" type="rotate" values="6 40 54;-12 40 54;6 40 54" dur="3.1s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="-30" cy="-8" r="13" fill="#b9c6db"/>
+      <circle cx="30" cy="-8" r="13" fill="#b9c6db"/>
+      <circle cx="-30" cy="-8" r="7" fill="#e8a7b7"/>
+      <circle cx="30" cy="-8" r="7" fill="#e8a7b7"/>
+      <circle cx="0" cy="6" r="40" fill="#b9c6db"/>
+      <ellipse cx="0" cy="22" rx="22" ry="15" fill="#eef4ff"/>
+      <ellipse cx="-15" cy="2" rx="5" ry="7" fill="#25314d"/>
+      <ellipse cx="15" cy="2" rx="5" ry="7" fill="#25314d"/>
+      <circle cx="-16" cy="0" r="1.8" fill="#ffffff"/>
+      <circle cx="14" cy="0" r="1.8" fill="#ffffff"/>
+      <path d="M-5 16 L5 16 L0 22 Z" fill="#e88fa0"/>
+      <path d="M0 22 Q-8 30 -15 22 M0 22 Q8 30 15 22" fill="none" stroke="#25314d" stroke-width="2" stroke-linecap="round"/>
+      <path d="M-22 20 L-42 16 M-22 24 L-43 25 M22 20 L42 16 M22 24 L43 25" stroke="#e8f1ff" stroke-width="1.6" stroke-linecap="round" opacity="0.8"/>
+      <ellipse cx="-22" cy="42" rx="12" ry="8" fill="#b9c6db"/>
+      <ellipse cx="22" cy="42" rx="12" ry="8" fill="#b9c6db"/>
+    </g>
+    <g id="kittenWhite">
+      <ellipse cx="0" cy="46" rx="52" ry="42" fill="#f7f4ec"/>
+      <ellipse cx="0" cy="58" rx="34" ry="26" fill="#ffffff" opacity="0.9"/>
+      <path d="M40 56 C86 52 92 10 66 4 C86 24 72 48 40 44 Z" fill="#f7f4ec">
+        <animateTransform attributeName="transform" type="rotate" values="-5 40 54;12 40 54;-5 40 54" dur="2.9s" repeatCount="indefinite"/>
+      </path>
+      <circle cx="-30" cy="-8" r="13" fill="#f7f4ec"/>
+      <circle cx="30" cy="-8" r="13" fill="#f7f4ec"/>
+      <circle cx="-30" cy="-8" r="7" fill="#efb0ba"/>
+      <circle cx="30" cy="-8" r="7" fill="#efb0ba"/>
+      <circle cx="0" cy="6" r="40" fill="#f7f4ec"/>
+      <ellipse cx="0" cy="22" rx="22" ry="15" fill="#ffffff"/>
+      <ellipse cx="-15" cy="2" rx="5" ry="7" fill="#25314d"/>
+      <ellipse cx="15" cy="2" rx="5" ry="7" fill="#25314d"/>
+      <circle cx="-16" cy="0" r="1.8" fill="#ffffff"/>
+      <circle cx="14" cy="0" r="1.8" fill="#ffffff"/>
+      <path d="M-5 16 L5 16 L0 22 Z" fill="#e88fa0"/>
+      <path d="M0 22 Q-8 30 -15 22 M0 22 Q8 30 15 22" fill="none" stroke="#25314d" stroke-width="2" stroke-linecap="round"/>
+      <path d="M-22 20 L-42 16 M-22 24 L-43 25 M22 20 L42 16 M22 24 L43 25" stroke="#b9c6db" stroke-width="1.6" stroke-linecap="round" opacity="0.9"/>
+      <ellipse cx="-22" cy="42" rx="12" ry="8" fill="#f7f4ec"/>
+      <ellipse cx="22" cy="42" rx="12" ry="8" fill="#f7f4ec"/>
+    </g>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#sky)"/>
+
+  <g opacity="0.9">
+    <use xlink:href="#star" x="90" y="80"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.1s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="210" y="160"><animate attributeName="opacity" values="1;0.2;1" dur="4.4s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="340" y="70"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="470" y="190"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="3.8s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="610" y="95"><animate attributeName="opacity" values="0.2;1;0.2" dur="5.2s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="760" y="170"><animate attributeName="opacity" values="1;0.3;1" dur="3.3s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="900" y="80"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.1s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="1040" y="180"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.9s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="1180" y="110"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.7s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="150" y="300"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.6s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="1140" y="330"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.2s" repeatCount="indefinite"/></use>
+    <use xlink:href="#star" x="660" y="280"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.5s" repeatCount="indefinite"/></use>
+  </g>
+
+  <circle cx="1010" cy="185" r="190" fill="url(#moonGlow)"/>
+  <circle cx="1010" cy="185" r="78" fill="#f7f1cf"/>
+  <circle cx="985" cy="160" r="13" fill="#e6dfba" opacity="0.55"/>
+  <circle cx="1035" cy="205" r="9" fill="#e6dfba" opacity="0.5"/>
+  <circle cx="1020" cy="150" r="6" fill="#e6dfba" opacity="0.45"/>
+
+  <ellipse cx="640" cy="640" rx="560" ry="100" fill="url(#kittenGlow)"/>
+
+  <g transform="translate(275,470)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="4.2s" repeatCount="indefinite"/>
+      <use xlink:href="#kittenOrange"/>
+    </g>
+  </g>
+
+  <g transform="translate(640,530)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 10;0 0" dur="3.6s" repeatCount="indefinite"/>
+      <use xlink:href="#kittenGrey" transform="scale(1.12)"/>
+    </g>
+  </g>
+
+  <g transform="translate(1010,480)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="4.8s" repeatCount="indefinite"/>
+      <use xlink:href="#kittenWhite" transform="scale(0.94)"/>
+    </g>
+  </g>
+
+  <g fill="#ffe9a8" opacity="0.65">
+    <circle cx="430" cy="240" r="3"><animate attributeName="cy" values="240;215;240" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="855" cy="330" r="2.5"><animate attributeName="cy" values="330;300;330" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="420" r="2"><animate attributeName="cy" values="420;395;420" dur="5.5s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
